@@ -8,5 +8,9 @@ public class Main {
 		System.out.println("helo botree");
 
 	}
+	
+	public void test() {
+		System.out.println("hello from test method");
+	}
 
 }
