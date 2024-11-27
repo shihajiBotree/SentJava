@@ -12,5 +12,9 @@ public class Main {
 	public void test() {
 		System.out.println("hello from test method");
 	}
+	
+	public void test2() {
+		System.out.println("hello from test two");
+	}
 
 }
