@@ -20,5 +20,10 @@ public class Main {
 	public void test3() {
 		System.out.println("hello from test threee");
 	}
+	
+	public void test4() {
+		
+		System.out.println("helo from test four...");
+	}
 
 }
