@@ -16,5 +16,9 @@ public class Main {
 	public void test2() {
 		System.out.println("hello from test two");
 	}
+	
+	public void test3() {
+		System.out.println("hello from test threee");
+	}
 
 }
